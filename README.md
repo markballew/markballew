@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ballew@sublinear.net**
 
-- 👨‍💻 See my other github orgs: <a href="https://github.com/spooky-fox>" target="blank">Spookyfox</A> and <a href="https://github.com/chatresearch" target="blank">Chatresearch</A>
+- 👨‍💻 See my other github orgs: <a href="https://github.com/spooky-fox" target="blank">Spookyfox</A> and <a href="https://github.com/chatresearch" target="blank">Chatresearch</A>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
