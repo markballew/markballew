@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ballew" target="blank"><img src="https://img.shields.io/twitter/follow/ballew?logo=twitter&style=for-the-badge" alt="ballew" /></a> </p>
 
-- 🌱 I’m currently learning **ansible, kubernetes, kpi**
+- 🌱 Hacking daily on **ansible, kubernetes**
 
 - 💬 Ask me about **kpi, automation, cloud security**
 
